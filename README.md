@@ -1,6 +1,6 @@
 # password_generator
 A Python based project for generating strong, random passwords which enhance security
-# installing
+### installing
    pip install random
 # Usage
 ###importing the random library
