@@ -1,5 +1,5 @@
 # Password Generator
-A Python based project for generating strong, random passwords which enhance security.
+The script generates a random password using uppercase letters, lowercase letters, numbers, and symbols. The generated password is of a specified length and includes a mix of different character types to ensure it is safe.Here we use the python 'random' module to generate random passwords.
       
 ### Usage
 Run the following command on the terminal
